@@ -1,12 +1,1 @@
-I'm a recent graduate from BCS Bachelor's of Computer Science and a self-taught cybersecurity enthusiast. I'm passionate about learning and using technology to protect people and systems from harm.
-
-Here are some of my skills and experience:
-Cybersecurity
-Ethical hacking
-Intrusion detection systems
-Digital forensics
-mitre ATT&CK FRAmework fundamentals
-Information gathering
-Incident response
-Cloud computing
-Python coding
+I don't just study security, I study how people break it.I'm a BCS graduate and a self-taught cybersecurity enthusiast. While my degree taught me how systems are built, my curiosity taught me how they fail.I focus on the human logic behind the attack - why a system was breached, not just how. From intrusion detection to digital forensics, I work to protect people and systems from harm.Core Stack: Ethical Hacking | Incident Response | Digital Forensics | IDS | Cloud Security | Python | Information Gathering | MITRE ATT&CK FundamentalsCurrently: Learning in public, building in private, and documenting everything that matters.
